@@ -80,5 +80,5 @@ The detailed presentation slides for this project can be found [here](https://gi
 13. Enhanced communication skills.
 
 ## 📈 Dashboard
-- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNDg1Zjk3NGUtYTYzZi00NTM1LWEzYmItYmY1YzIyOTA3Zjk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2069876bcfed1bf3182d)
+- [Live Dasboard](https://tinyurl.com/m8sdupu4)
 
