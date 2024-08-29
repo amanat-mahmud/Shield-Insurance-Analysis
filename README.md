@@ -81,4 +81,5 @@ The detailed presentation slides for this project can be found [here](https://gi
 
 ## 📈 Dashboard
 - [Live Dasboard](https://tinyurl.com/m8sdupu4)
+<img style="border-radius:25px;" src="https://github.com/amanat-mahmud/Shield-Insurance-Analysis/blob/main/overview.png">
 
